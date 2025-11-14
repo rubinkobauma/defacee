@@ -26,5 +26,3 @@ async function defacePage() {
 
 // Call the function to replace the content when the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', defacePage);
-SquareX Safe File Viewer
-✕
